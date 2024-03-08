@@ -3,10 +3,11 @@
 ## desktop
 ![desktop](./wallpapers/static/desktop.png)
 
+#desktop
 ## kitty
 ![desktop](./wallpapers/static/kitty.png)
 
-## neovim
+## [neovim](https://github.com/JayaDeep11/dotfiles/tree/main/nvim)
 ![Greeting](./wallpapers/static/neovim.png)
 
 
