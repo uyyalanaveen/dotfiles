@@ -3,7 +3,7 @@
 ## Desktop 
 ![desktop](./wallpapers/static/desktop.png)
 
-## [kitty](https://github.com/JayaDeep11/dotfiles/tree/main/nvim)
+## [kitty](https://github.com/JayaDeep11/dotfiles/tree/main/kitty)
 ![desktop](./wallpapers/static/kitty.png)
 
 ## [neovim](https://github.com/JayaDeep11/dotfiles/tree/main/nvim)
