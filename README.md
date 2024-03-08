@@ -1,4 +1,4 @@
-# Jayadeep's dotfiles
+# Naveen's dotfiles
 
 ## desktop
 ![desktop](./wallpapers/static/desktop.png)
