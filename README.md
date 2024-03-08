@@ -1,10 +1,9 @@
 # Jayadeep's dotfiles
 
-## desktop
+## Desktop 
 ![desktop](./wallpapers/static/desktop.png)
 
-#desktop
-## kitty
+## [kitty](https://github.com/JayaDeep11/dotfiles/tree/main/nvim)
 ![desktop](./wallpapers/static/kitty.png)
 
 ## [neovim](https://github.com/JayaDeep11/dotfiles/tree/main/nvim)
@@ -13,14 +12,15 @@
 
 # Arch Linux
 
-#### Install git
+#### Install Git
 
-before insallation it will update the system
+> before insallation it will update the system
 ```
 sudo pacman -Syu git 
 ```
 
-#### install packages
+#### Install Packages
+
 ```
 sudo pacman -S hyprland swww sddm kitty neovim neofetch 
 ```
