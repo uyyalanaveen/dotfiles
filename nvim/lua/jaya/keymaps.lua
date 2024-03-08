@@ -64,3 +64,6 @@ map("t", "<esc>", "<C-\\><C-n>", opts) -- go back to normal mode with <esc> on t
 
 -- search and replace
 map("n", "<leader>sr", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]], opts)
+
+map("n", "<space>cp", ":!g++ %<CR>", opts)
+map("n", "<space>co", ":!./a.out<CR>", opts)
