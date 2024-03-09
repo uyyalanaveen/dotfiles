@@ -38,7 +38,7 @@ return {
             callback = function()
                 local stats = require("lazy").stats()
                 local ms = (math.floor(stats.startuptime * 100 + 0.5) / 100)
-                section.footer.val = "⚡Jaya " .. stats.count .. " plugins loaded in " .. ms .. "ms"
+                section.footer.val = "⚡Naveen " .. stats.count .. " plugins loaded in " .. ms .. "ms"
                 pcall(vim.cmd.AlphaRedraw)
             end,
         })
