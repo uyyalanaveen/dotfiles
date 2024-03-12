@@ -1,5 +1,12 @@
 return {
     "kawre/leetcode.nvim",
+    keys = {
+        {
+            "<leader>lc",
+            ":Leet<CR>",
+            desc = "Leetcode",
+        },
+    },
     build = ":TSUpdate html",
     dependencies = {
         "nvim-telescope/telescope.nvim",
