@@ -6,6 +6,11 @@ return {
             ":Leet<CR>",
             desc = "Leetcode",
         },
+        {
+            "<leader>lo",
+            ":Leet Open<CR>",
+            desc = "Leetcode Open in Brave",
+        },
     },
     build = ":TSUpdate html",
     dependencies = {
