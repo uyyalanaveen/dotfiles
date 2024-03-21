@@ -7,11 +7,11 @@ return function()
 
     local servers = {
         prismals = {},
-        dockerls = {},
+        -- dockerls = {},
         pyright = {},
-        svelte = {},
+        -- svelte = {},
         bufls = {},
-        htmx = {},
+        -- htmx = {},
         -- tailwincss = {},
         gopls = lsp_conf.go,
         cssls = lsp_conf.css,
@@ -21,6 +21,7 @@ return function()
         rust_analyzer = lsp_conf.rust,
         html = { filetypes = { "html", "hbs" } },
         terraformls = { filetypes = { "terraform", "tf" } },
+        kotlin_language_server = {},
     }
 
     mason_lspconfig.setup({
