@@ -27,6 +27,7 @@ alias tls='tmux list-session'
 
 
 
+# export CLASSPATH="/home/jaya/personal/repos/college/Jdbc/static/ojdbc14.jar"
 
 
 

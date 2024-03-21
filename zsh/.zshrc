@@ -101,6 +101,10 @@ source $ZSH/oh-my-zsh.sh
 
 eval "$(zoxide init zsh)"
 
+# export CLASSPATH="/usr/share/java/mariadb-jdbc/mariadb-java-client.jar:."
+export JAVA_HOME="/usr/lib/jvm/java-21-openjdk/"
+export PATH=$JAVA_HOME/bin:$PATH
+
 
 source ~/.zsh_profile
 
