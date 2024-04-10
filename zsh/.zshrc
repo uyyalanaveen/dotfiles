@@ -100,6 +100,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 eval "$(zoxide init zsh)"
+eval "$(starship init zsh)"
 
 # export CLASSPATH="/usr/share/java/mariadb-jdbc/mariadb-java-client.jar:."
 export JAVA_HOME="/usr/lib/jvm/java-21-openjdk/"

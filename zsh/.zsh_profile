@@ -8,11 +8,7 @@ bindkey -s ^f "tmux-sessionizer\n"
 mails () {
   brave "https://mail.google.com/mail/u/0/#search/$1"
 }
-
-mail () {
-  brave "https://mail.google.com/mail/u/$1/"
-}
-
+mail () { brave "https://mail.google.com/mail/u/$1/" }
 ghr () {
   brave "https://github.com/JayaDeep11?tab=repositories"
 }
